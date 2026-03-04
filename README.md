@@ -286,5 +286,8 @@ Responsabilidades principales
 • Trabajar con APIs de inteligencia artificial para desarrollar casos de uso de datos
 • Crear y evaluar prompts simples para modelos de lenguaje (LLM)
 • Apoyar flujos básicos de machine learning y monitoreo de modelos
-• Generar reportes que faciliten la interpretación de datos para el negocio
+• Generar reportes que faciliten la interpretación de datos para el negocio 
+
+Pagina en sigma:
+https://www.figma.com/make/3tPl2RNDWdSJHSrzKwYOSY/Data-Analyst-Dashboard?t=mP6Z6efypOJ94RtM-1
 
