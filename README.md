@@ -23,7 +23,6 @@ Según la descripción del puesto, las principales tecnologías son:
 •	Looker
 •	Tableau
 •	Power BI
-Estas herramientas se utilizan para consultar bases de datos, procesar información, crear visualizaciones y generar reportes analíticos.
 
 Habilidades técnicas (Hard Skills)
 Las habilidades técnicas identificadas en la oferta son:
@@ -38,7 +37,6 @@ Las habilidades técnicas identificadas en la oferta son:
 •	Análisis causal
 •	Validación de calidad de datos
 •	Análisis exploratorio de datos
-Estas habilidades permiten transformar datos en información útil para la toma de decisiones empresariales.
 
 Habilidades blandas (Soft Skills)
 Las habilidades blandas mencionadas en la oferta incluyen:
@@ -49,7 +47,6 @@ Las habilidades blandas mencionadas en la oferta incluyen:
 •	Colaboración con equipos multidisciplinarios
 •	Capacidad de aprendizaje continuo
 •	Curiosidad por el análisis de datos
-Estas habilidades son importantes porque el analista debe explicar resultados técnicos a personas no técnicas dentro de la empresa.
 
 Responsabilidades principales
 Entre las responsabilidades del puesto se encuentran:
@@ -80,7 +77,6 @@ Según la oferta laboral, las principales tecnologías y herramientas utilizadas
 •	SQL
 •	Kusto Query Language (KQL)
 •	Herramientas de inteligencia humana / crowd tools (UHRS)
-Estas herramientas se utilizan para procesar datos, realizar consultas, validar información y generar reportes.
 
 Habilidades técnicas (Hard Skills)
 Las habilidades técnicas identificadas en la oferta incluyen:
@@ -93,7 +89,6 @@ Las habilidades técnicas identificadas en la oferta incluyen:
 •	Documentación de resultados
 •	Codificación básica
 •	Uso de Kusto Query Language (KQL)
-Estas habilidades permiten analizar datos y garantizar la calidad y precisión de la información procesada.
 
 Habilidades blandas (Soft Skills)
 Las habilidades blandas mencionadas en la oferta laboral son:
@@ -104,7 +99,6 @@ Las habilidades blandas mencionadas en la oferta laboral son:
 •	Capacidad de trabajar bajo presión
 •	Adaptabilidad a cambios en horarios o tareas
 •	Capacidad para seguir instrucciones y lineamientos
-Estas habilidades son importantes para asegurar precisión en el análisis y cumplimiento de objetivos de productividad.
 
 Responsabilidades principales
 Las principales responsabilidades del puesto incluyen:
@@ -140,7 +134,6 @@ Las tecnologías mencionadas en la oferta laboral incluyen:
 •	DAX
 •	KNIME
 •	Bases de datos NoSQL
-Estas tecnologías se utilizan para analizar datos, crear visualizaciones, desarrollar soluciones de inteligencia artificial y automatizar procesos empresariales.
 
 Habilidades técnicas (Hard Skills)
 Las habilidades técnicas identificadas en esta oferta son:
@@ -154,7 +147,6 @@ Las habilidades técnicas identificadas en esta oferta son:
 •	Integración de soluciones analíticas en proyectos empresariales
 •	Desarrollo de dashboards y reportes analíticos
 •	Documentación técnica de soluciones
-Estas habilidades permiten crear soluciones que integren análisis de datos e inteligencia artificial en entornos empresariales.
 
 Habilidades blandas (Soft Skills)
 Las habilidades blandas requeridas para el puesto incluyen:
@@ -165,7 +157,6 @@ Las habilidades blandas requeridas para el puesto incluyen:
 •	Capacidad para capacitar a otros usuarios
 •	Adaptabilidad a nuevas tecnologías
 •	Aprendizaje continuo
-Estas habilidades son importantes para liderar proyectos de análisis de datos y coordinar equipos de trabajo.
 
 Responsabilidades principales
 Las responsabilidades del puesto incluyen:
@@ -200,7 +191,6 @@ Las principales tecnologías mencionadas en la oferta laboral incluyen:
 •	Plataformas de Big Data
 •	Herramientas de Business Intelligence
 •	ETL (Extract, Transform, Load)
-Estas tecnologías se utilizan para procesar grandes volúmenes de datos y construir soluciones analíticas avanzadas.
 
 Habilidades técnicas (Hard Skills)
 Las habilidades técnicas identificadas en esta oferta son:
@@ -214,7 +204,6 @@ Las habilidades técnicas identificadas en esta oferta son:
 •	Desarrollo de soluciones analíticas
 •	Codificación y pruebas de herramientas analíticas
 •	Traducción de requerimientos de negocio a soluciones técnicas
-Estas habilidades permiten transformar grandes volúmenes de datos en información útil para organizaciones del sector salud.
 
 Habilidades blandas (Soft Skills)
 Las habilidades blandas requeridas incluyen:
@@ -226,7 +215,6 @@ Las habilidades blandas requeridas incluyen:
 •	Adaptabilidad a cambios
 •	Capacidad para trabajar en entornos dinámicos
 •	Curiosidad y aprendizaje continuo
-Estas habilidades permiten colaborar con equipos multidisciplinarios y resolver problemas complejos utilizando datos.
 
 Responsabilidades principales
 Las responsabilidades principales del puesto incluyen:
@@ -237,4 +225,66 @@ Las responsabilidades principales del puesto incluyen:
 •	Traducir requerimientos de negocio en soluciones analíticas
 •	Participar en proyectos de análisis de datos dentro de un framework ágil
 •	Desarrollar soluciones de análisis para clientes del sector salud
-•	Apoyar la creación de productos analíticos y herramientas de datos
+•	Apoyar la creación de productos analíticos y herramientas de datos 
+
+Oferta Laboral 5 – Análisis
+
+Portal: LinkedIn Jobs
+Empresa: Infinite Computer Solutions
+Ubicación: San José, Costa Rica
+Puesto: Data Analyst
+
+Nombre del puesto
+
+Data Analyst
+
+Profesional encargado de analizar conjuntos de datos, generar visualizaciones y transformar información en insights claros que apoyen la toma de decisiones estratégicas dentro de la empresa. El rol también involucra el uso de herramientas de análisis, APIs de inteligencia artificial y flujos básicos de machine learning para mejorar procesos de negocio.
+
+Tecnologías requeridas
+
+Las principales tecnologías mencionadas en la oferta laboral incluyen:
+
+• SQL
+• Python
+• Microsoft Power BI
+• Tableau
+• APIs REST
+• JSON
+• Herramientas de visualización de datos
+• Plataformas de análisis de datos
+• Herramientas de reporting
+
+Habilidades técnicas (Hard Skills)
+
+• Análisis de datasets y detección de tendencias
+• Creación de dashboards y reportes
+• Modelado de datos y procesos ETL
+• Programación en Python para análisis de datos
+• Uso de herramientas de visualización como Power BI o Tableau
+• Integración y consumo de APIs de datos
+• Manejo de formatos de datos como JSON
+• Desarrollo y monitoreo básico de modelos de machine learning
+• Uso de APIs de inteligencia artificial (LLM)
+• Generación de reportes para análisis de negocio
+
+Habilidades blandas (Soft Skills)
+
+• Pensamiento analítico
+• Resolución de problemas
+• Comunicación efectiva
+• Trabajo en equipo
+• Organización y atención al detalle
+• Capacidad de aprendizaje continuo
+• Colaboración con equipos multidisciplinarios
+• Capacidad para trabajar de manera independiente
+
+Responsabilidades principales
+• Analizar conjuntos de datos para identificar tendencias y patrones
+• Mantener bases de datos, dashboards y reportes actualizados
+• Crear visualizaciones de datos para apoyar la toma de decisiones
+• Colaborar con diferentes equipos para apoyar iniciativas estratégicas
+• Trabajar con APIs de inteligencia artificial para desarrollar casos de uso de datos
+• Crear y evaluar prompts simples para modelos de lenguaje (LLM)
+• Apoyar flujos básicos de machine learning y monitoreo de modelos
+• Generar reportes que faciliten la interpretación de datos para el negocio
+
